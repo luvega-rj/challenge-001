@@ -2,38 +2,38 @@
     "foods": [
         {
             "id": 1,
-            "title": "Pilau-kuku combo",
+            "title": "Pilau-Kuku Combo @ksh270",
             "poster": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=1600"
         },
         {
             "id": 2,
-            "title": "Pizza",
+            "title": "Pizza @ksh700",
             "poster": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
         },
         {
             "id": 3,
-            "title": "dragon fruit smoothie",
+            "title": "Dragon Fruit Smoothie @ksh100",
             "poster": "https://images.pexels.com/photos/1564534/pexels-photo-1564534.jpeg?auto=compress&cs=tinysrgb&w=1600"
         },
         {
             "id": 4,
-            "title": "ugali fish",
+            "title": "Ugali Fish @ksh 300",
             "poster": "https://images.pexels.com/photos/12843157/pexels-photo-12843157.jpeg?auto=compress&cs=tinysrgb&w=1600"
         },
         {
             "id": 5,
-            "title": "rice combo large",
+            "title": "Rice Combo Large @ksh1250",
             "poster": "https://images.pexels.com/photos/7426867/pexels-photo-7426867.jpeg?auto=compress&cs=tinysrgb&w=1600"
         },
         {
             "id": 6,
-            "title": "roasted beef special",
+            "title": "Roasted Beef Special @ksh300/kg",
             " description":"full payment = 1000     deposit = 500",
             "poster": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29va2VkJTIwcGxhbnRhaW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         },
         {
             "id": 7,
-            "title": "vegetarian",
+            "title": "Vegetarian @ksh270",
             "poster": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dmVnZXRhcmlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         }
     ]
