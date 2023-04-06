@@ -78,6 +78,8 @@ function displayItem(item) {
 function displayForm(item) {
   const container = document.getElementById('containerrr');
   container.innerHTML = '';
+
+   
   
   const form = document.createElement('form');
   const NameLabel = document.createElement('label');
@@ -122,7 +124,9 @@ function displayForm(item) {
     event.preventDefault();
     // handle form submission here
     console.log(`Submitted form for item "${item.title}"`);
+    container.innerHTML = '<p>THANK YOU SO MUCH AND WELCOME AGAIN</p>';
   });
   form.appendChild(submitButton);
   container.appendChild(form);
 }
+
