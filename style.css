@@ -217,5 +217,34 @@ form {
  }
  
  
-
+/* Styles for the CONTACT section */
+#fff {
+   padding: 30px;
+   background-color: #f2f2f2;
+ }
+ 
+ #fff h3 {
+   font-size: 28px;
+   color:black;
+   margin-bottom: 20px;
+ }
+ 
+ #fff ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+ }
+ 
+ #fff ul li {
+   font-size: 18px;
+   color:cornflowerblue;
+   margin-bottom: 10px;
+ }
+ 
+ #fff ul li i {
+   font-size: 24px;
+   color:red;
+   margin-right: 10px;
+ }
+ 
 
